@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - 0.8
+   - 'stable'
 env:
 - [
     {secure: "GUtf4DlDQ7sNzg5nMDQSNajVLIxR8YXCQsAotfzOwTJ2VxL5k0hs6QwJ6vTtRaB/Vnjl3QdDe47uNXPwfPNnIveFZco362P8AVYj+BOWn6oG/9aCT9Hjk7qi7d0lBpgorln5Y0/CK1PDrPxrY2K4HWIjx27IOZ2YAAZJdQ/g20flKNIdRiZdGuviYzFAkrB9Woh5vccs7OsvtwDLzJhg6i7MqC5YlGaYw0eagasDT91ZkvVpY/2BcDE3DoYNrJ6pLuObO0XH1Wyfx4KhR+K4c7GgYs4Q+5oG/zTy9aeHSnZY9xrrgMGNxcu/e+2+b8K148HtCsYEyZ29EVJHWDpOzAcrbUeSjes9zpoM5FYmuN8/dJOtFjoUr+3qVJMsR4QWx+535RblaXyKSea0dpIKgsHP+RmxkvjSY0pKBx+CKpuFXv4XlJqQUQhrqJVSvTwzEPNcMsvcHe5W1FfpLE2llVi22isU2zJgrvhzOzmDSpafP8723cZi2JkwhjjaNkBDZc/1VxRxU9z0Xfp1VdukEi0kVVVo3bhztqltprCq6x4vsdix0H/N+QqtqT5aPrJJREifS5ZFfvbAanSDF9zPGeEvS6EHQ3ytH2KzZfbnGnD/yGCcZcRBkR3bkEqFuHf6QhC1FZBXliI5LExiyu6/HmOizIdU3lGxxGCvMntB3a8="},
